@@ -9768,3 +9768,19 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+/* styles.css */
+
+/* styles.css */
+
+.contact-info {
+  background-color: rgba(255, 255, 255, 0.1); /* Translucent white background */
+  padding: 10px;
+  border-radius: 5px;
+  backdrop-filter: blur(10px); /* Apply a blur effect to the background */
+  transition: background-color 0.3s;
+}
+
+.contact-info:hover {
+  background-color: rgba(255, 255, 255, 0.2); /* Lighter translucent white background on hover */
+}
+
